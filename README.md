@@ -1,3 +1,3 @@
 # sw2022_electric_station
 
-Kibana Dashboard: http://20.214.165.11:5601/goto/8bec1890-2313-11ed-9e46-a726cbee3c52
+Kibana Dashboard: http://20.214.165.11:5601/app/dashboards#/view/1c6a5260-2288-11ed-8174-373e8078286a?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-15m%2Cto%3Anow))
