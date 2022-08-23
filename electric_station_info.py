@@ -1,7 +1,7 @@
 import requests
 
 url = 'http://apis.data.go.kr/B552584/EvCharger/getChargerInfo'
-params ={'serviceKey' : '8vw9k95QJ4Rb88ba9wp2SRUDOzJv1/dE9kvQOFiqkW8M+NqwKJBnRUG3IBmLqLVnIesJnulJYfU4xV90oXoXew=='}
+params ={'serviceKey' : 'insert decoding key here'}
 
 response = requests.get(url, params=params)
 
